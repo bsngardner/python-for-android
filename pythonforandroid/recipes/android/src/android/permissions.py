@@ -101,6 +101,15 @@ class Permission:
     BLUETOOTH_ADMIN = (
         "android.permission.BLUETOOTH_ADMIN"
         )
+    BLUETOOTH_ADVERTISE = (
+        "android.permission.BLUETOOTH_ADVERTISE"
+        )
+    BLUETOOTH_CONNECT = (
+        "android.permission.BLUETOOTH_CONNECT"
+        )
+    BLUETOOTH_SCAN = (
+        "android.permission.BLUETOOTH_SCAN"
+        )
     BODY_SENSORS = (
         "android.permission.BODY_SENSORS"
         )
